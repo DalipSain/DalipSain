@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Dipu 👋
 
-<!--
-**DalipSain/DalipSain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Developer
 
-Here are some ideas to get you started:
+I am an aspiring backend developer passionate about building secure and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+* Node.js
+* Express.js
+* MongoDB
+* JWT
+* bcrypt
+* Nodemailer
+* Multer
+* Socket.IO
+* JavaScript
+* React.js (Basic)
+
+### Projects
+
+🎵 Spotify Clone (Role-Based Access)
+💬 Real-Time Chat Application
+🛒 E-commerce Platform
+🔐 Authentication System
+
+### Currently Learning
+
+* Advanced Backend Architecture
+* API Optimization
+* System Design
+
+### Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/dalip-kumar-b735182a8
